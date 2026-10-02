@@ -1,0 +1,26 @@
+{
+  "fs_hz": 48000,
+  "duracion_s": 11.71,
+  "canales": 2,
+  "correlacion_LR": 0.9999,
+  "pico": 1.0,
+  "rms": 0.1491,
+  "offset_DC": -0.0193,
+  "muestras_saturadas": 1082,
+  "piso_ruido_dB": -54.2,
+  "umbral_VAD_dB": -42.2,
+  "pct_actividad": 72.5,
+  "SNR_original_dB": 11.4,
+  "SNR_filtrado_dB": 25.7,
+  "SNR_final_dB": 39.6,
+  "pico_final_dBFS": -3.0,
+  "f0_mediana_Hz": 99.6,
+  "f0_p10_Hz": 87.4,
+  "f0_p90_Hz": 226.4,
+  "pct_sonoro": 64.0,
+  "mfcc_forma": [
+    13,
+    1169
+  ],
+  "centroide_mediano_Hz": 339.0
+}
